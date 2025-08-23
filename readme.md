@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Bienvenido a mi perfil de GitHub!
+#                        ¡Hola! Bienvenido a mi perfil de GitHub! 👋
 
            🧪 QA Tester | 🖥️ API Testing | ⚙️ Automatización | 🐞 Reporte de defectos
 
@@ -26,3 +26,4 @@ Actualmente me encuentro trabajando en la web https://mrsushiroll.netlify.app/ �
 - ✉️ [Correo](mailto:sebastianacostareymon@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario/acostareymon)
 - 🌐 [Portafolio](url) proximamente...
+
