@@ -24,6 +24,6 @@ Actualmente me encuentro trabajando en la web https://mrsushiroll.netlify.app/ �
 ## 📫 Contacto
 
 - ✉️ [Correo](mailto:sebastianacostareymon@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario/acostareymon)
+- 💼 [LinkedIn](https://www.linkedin.com/in/acostareymon/)
 - 🌐 [Portafolio](url) proximamente...
 
