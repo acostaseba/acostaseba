@@ -1,6 +1,6 @@
-#                        ¡Hola! Bienvenido a mi perfil de GitHub! 👋
+ #                                                                             ¡Hola! Bienvenido a mi perfil de GitHub! 👋
 
-           🧪 QA Tester | 🖥️ API Testing | ⚙️ Automatización | 🐞 Reporte de defectos
+                                 🧪 QA Tester | 🖥️ API Testing | ⚙️ Automatización | 🐞 Reporte de defectos
 
 ## 🚀 Sobre mí
 
